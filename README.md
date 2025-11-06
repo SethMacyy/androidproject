@@ -15,5 +15,7 @@
 
 # UX VIDEO
 
-<video src="UX VIDEO.mp4" controls width="600"></video>
+[![Watch the video](https://img.youtube.com/vi/lu7xMQs9kQs/0.jpg)](https://youtu.be/lu7xMQs9kQs)
+
+
 

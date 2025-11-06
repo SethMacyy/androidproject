@@ -15,7 +15,16 @@
 
 # UX VIDEO
 
-[![Watch the video](https://img.youtube.com/vi/lu7xMQs9kQs/0.jpg)](https://youtu.be/lu7xMQs9kQs)
+## CLICK 👇🏻👇🏻
+
+<a href="https://www.youtube.com/watch?v=lu7xMQs9kQs" target="_blank">
+  <img src="https://img.youtube.com/vi/lu7xMQs9kQs/0.jpg" 
+       alt="Demo Video" 
+       width="800" 
+       style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+</a>
+
+
 
 
 

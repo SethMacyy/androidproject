@@ -14,3 +14,6 @@
 <img src="wireframe.png" alt="Foto Project" width="800"/>
 
 # UX VIDEO
+
+<video src="UX VIDEO.mp4" controls width="600"></video>
+
